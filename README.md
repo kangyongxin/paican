@@ -7,7 +7,6 @@ Tensorflow implementation of the method proposed in the paper: "Bayesian Robust 
 ```bash
 python setup.py install
 ```
-
 ## Requirements
 * tensorflow (>=1.4)
 * sklearn (only for evaluation)
